@@ -1,0 +1,260 @@
+/* start Box */
+.d-flex{
+    display: flex;
+}
+.d-block{
+    display: block;
+}
+.d-grid{
+    display: grid;
+}
+.f-wrap{
+    flex-wrap: wrap;
+}
+.gap-20{
+    gap: 20px;
+}
+.rad-6{
+    border-radius:6px ;
+}
+.rad-10{
+    border-radius:10px ;
+}
+.rad-half{
+    border-radius: 50%;
+}
+.b-none{
+    border: none;
+}
+.border-ccc{
+    border: 1px solid #4a4a4a;
+}
+/* end box*/
+/* start media */
+@media(max-width:767px){
+    .txt-c-mobile{
+        text-align: center;
+    }
+    .block-mobile{
+        display: block;
+    }
+    .hide-mobile{
+        display: none;
+    }
+}
+/* End media */
+
+/* start padding-margin */
+.p-20{
+    padding: 20px;
+}
+.p-5{
+    padding: 5px;
+}
+.p-15{
+    padding: 15px;
+}
+.m-20{
+    margin: 20px;
+}
+.m-0{
+    margin: 0;
+}
+.m-15{
+    margin: 15px;
+}
+.mt-0{
+    margin-top: 0;
+}
+.mt-5{
+    margin-top: 5;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+
+.mt-25{
+    margin-bottom: 25px;
+}
+.mb-5{
+    margin-bottom: 5px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-25{
+    margin-bottom: 25px;
+}
+.p-0{
+    padding: 0px;
+}
+.p-10{
+    padding:10px ;
+}
+.w-full{
+    width: 100%;
+}
+.w-fit{
+    width: fit-content;
+}
+.h-full{
+    height: 100%;
+}
+/* end padding-margin */
+
+/* start color*/
+.bg-white{
+    background-color: rgba(255, 255, 255, 0.938);
+}
+.bg-eee{
+    background-color: #627048;
+}
+.bg-black{
+    background-color: #282a2580;
+}
+.bg-grey{
+    background-color:rgb(170, 169, 167) ;
+}
+.bg-greeny{
+    background-color: #bb7bbc;
+}
+.bg-beige{
+    background-color: beige;;
+}
+.bg-yellow{
+    background-color:#cdac04;
+}
+.bg-pink{
+    background-color: pink;
+}
+.c-black{
+    color: black;
+}
+.c-white{
+    color: #ffffff;
+}
+.c-grey{
+    color: rgb(156, 157, 155);
+}
+.c-eee{
+    color: #7d8b6679;
+}
+.c-greeny{
+    color: #8a5588;
+}
+.c-yellow{
+    color: #cdac04;
+}
+.c-beige{
+    color: beige;
+}
+.c-pink{
+    color: pink;
+}
+/* End color*/
+
+/* start position*/
+.p-relative{
+    position: relative;
+}
+/* End position */
+
+
+/* start align-txt */
+.txt-c{
+    text-align: center;
+}
+.align-center{
+    align-items: center;
+}
+/* End align-txt*/
+
+
+/* start font */
+.fs-14{
+    font-size: 14px;
+} 
+.fs-16{
+    font-size: 16px;
+} 
+.fs-18 {
+    font-size: 18px;
+} 
+.fs-26 {
+    font-size: 26px;
+} 
+.fw-bold{
+    font-weight: bold;
+} 
+/* End font*/
+
+/* start component*/
+.between-flex{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.center-flex{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.space-between{
+    justify-content:space-between;
+}
+.btn-shape{
+    padding:10px 15px ;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:pink;
+    color: #000000;
+}
+.green .icon,
+.green .progress{
+    background-color: #5e664f40;
+}
+.Yellow .icon,
+.Yellow .progress{
+    background-color: #5e664f40;;
+}
+.beige .icon,
+.beige .progress{
+    background-color: #5e664f40;
+}
+.pink .icon,
+.pink .progress{
+    background-color: #8e6c8b40;
+}
+label{
+    cursor: pointer;
+}
+#checked{
+    background-color: #8c598f;
+}
+#checked:hover{
+    background-color: #767879;
+}
+
+#no-checked{
+    background-color: #514b51;
+}
+#no-checked:hover{
+    background-color: #886095;
+}
+/* End component*/
+
+/* start */
+/* End */
+
+/* start */
+/* End */
